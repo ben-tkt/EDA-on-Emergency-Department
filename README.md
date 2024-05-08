@@ -21,7 +21,7 @@ Click [here](https://public.tableau.com/app/profile/ben.tan2827/viz/EDAinEmergen
   * Is the safety of our patients fair and accounted for
   * When are the peak periods through the year/week/day
 
-* **Data Source** - Can be found in repository or from  [Real World Fake Data ](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv).
+* **Data Source** - Can be found in repository or from [Real World Fake Data](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv). Python was used to standardize the datetime format, if you are downloading the data from the link.
 
 ## 📓 Data Dictionary
 * Date - YYYY-MM-DD HH:MM:SS
@@ -36,9 +36,9 @@ Click [here](https://public.tableau.com/app/profile/ben.tan2827/viz/EDAinEmergen
 *	Patient_waittime – Assumed to be in minutes
 *	Department_referral
 
-## 📓Key Features Used
+## 📓Softwares Used
 * Python
-* MySQL
+* MySQL Workbench
 * Tableau Public
 * Excel
 
