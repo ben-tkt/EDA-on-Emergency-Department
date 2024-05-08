@@ -1,7 +1,9 @@
 # EDA-on-Emergency-Department
-In this project, i used SQL and Tableau to perform EDA on a dataset from a fictitious Emergency Department with the aim to improve management and performance. 
+In this project, i used SQL and Tableau to perform EDA on a dataset from a fictitious Emergency Department with the aim to improve management and performance.
 
 Click [here](https://public.tableau.com/app/profile/ben.tan2827/viz/EDAinEmergencyDepartment/EDAinED) for the data vizualization on that was done on Tablea Public
+![Screenshot of Vizualization](https://github.com/ben-tkt/EDA-on-Emergency-Department/assets/53967457/588ff528-f746-4750-8a7c-30cef0b9ed3d)
+
 
 ## 🎯 My Objectives
 * To share my work
